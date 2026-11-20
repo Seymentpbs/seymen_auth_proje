@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833243830149",
+    "project_id": "seymen-auth-20266-ba2f6",
+    "storage_bucket": "seymen-auth-20266-ba2f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833243830149:android:5bc1540db7d2a1097ed6ec",
+        "android_client_info": {
+          "package_name": "com.seymen.seymen_auth_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWrEK6x0UZmohoyJkQ17Eb-lWTZL2pUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
